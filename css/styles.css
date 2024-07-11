@@ -45,3 +45,36 @@ ol {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+.logo-nav {
+  padding: 26px 0px 0px 0px;
+  max-width: 1280px;
+  height: 88px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.logo-header {
+  max-width: 1151px;
+  height: 36px;
+}
+
+.logo-link {
+  width: 112px;
+  height: 24px;
+  border-radius: 6px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.header-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-left: 203px;
+}
+.social-link {
+  flex: end;
+}
+.social-list {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
